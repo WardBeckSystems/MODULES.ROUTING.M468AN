@@ -1,5 +1,5 @@
 # 1970 - M468AN - Routing Switcher Module.jpg
-Wiki page: [M468AN](../../../PAGES/M468AN.md)
+Wiki page: [M468AN](../../../../PAGES/M468AN.md)
 
 
 - **Year:** 1970 (module estimate (family))
@@ -23,7 +23,7 @@ Wiki page: [M468AN](../../../PAGES/M468AN.md)
 
 ```json
 {
- "file": "Modules/ROUTING/M468AN/1970 - M468AN - Routing Switcher Module.jpg",
+ "file": "Modules/ROUTING/M468AN/PHOTOS/1970 - M468AN - Routing Switcher Module.jpg",
  "sha256": "89a7d52373b12a0e07a637ce16cd7d6e9054df6dbb38020f998417c00a49169c",
  "kind": "module",
  "models": [
