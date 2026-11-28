@@ -1,6 +1,6 @@
 # M468AN Routing Switcher Module · Routing
 
-Ward-Beck Systems M468AN, 1970|3. Wiki page: [M468AN on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M468AN.html)
+Ward-Beck Systems M468AN, 1970|3. Wiki page: [M468AN on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M468AN/)
 
 | Folder | What is in it | Files |
 |---|---|---|

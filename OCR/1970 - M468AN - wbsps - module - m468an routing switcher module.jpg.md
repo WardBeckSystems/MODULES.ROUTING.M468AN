@@ -1,5 +1,5 @@
 # 1970 - M468AN - wbsps - module - m468an routing switcher module.jpg
-Wiki page: [M468AN](../../../../PAGES/M468AN.md)
+Wiki page: [M468AN](../)
 
 
 - **Year:** 1970 (module estimate (family))
